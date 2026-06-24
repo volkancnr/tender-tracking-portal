@@ -64,7 +64,7 @@ PARTICIPANT_COMPANY_OPTIONS=Company A,Company B,Company C,Company D
 PRODUCT_GROUP_OPTIONS=Product Group A,Product Group B,Product Group C,Product Group D,Other
 ```
 
-## Görüntüler
+## Sample İmages
 
 <img width="1708" height="806" alt="image" src="https://github.com/user-attachments/assets/9788ab97-a5eb-4989-bb78-f4a037fe3913" />
 
