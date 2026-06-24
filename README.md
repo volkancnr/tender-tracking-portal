@@ -64,17 +64,4 @@ PARTICIPANT_COMPANY_OPTIONS=Company A,Company B,Company C,Company D
 PRODUCT_GROUP_OPTIONS=Product Group A,Product Group B,Product Group C,Product Group D,Other
 ```
 
-## Security Notes
 
-Do not commit production secrets or business data.
-
-Never commit:
-
-- Real database credentials
-- SMTP credentials
-- SQL dumps or backups
-- Production user data
-- Tender prices, contract values, customer/institution data
-- Internal company names, if the repository is public
-
-If a secret was committed accidentally, rotate it immediately and remove it from Git history.
