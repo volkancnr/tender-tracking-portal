@@ -15,6 +15,7 @@ A Streamlit-based internal tender tracking and reporting panel.
 - Mail notification support through database SMTP settings  
 - Sales analytics and tender result dashboards  
 - Deleted tender archive and reason classification
+- Mobile compatible
 
 ## Tech Stack
 
