@@ -4,15 +4,17 @@ A Streamlit-based internal tender tracking and reporting panel.
 
 ## Features
 
-- Tender registration and status tracking
-- Salesperson assignment and task follow-up
-- Follow-up, objection, won/lost tender workflows
-- Partial result tracking by product group
-- Device and expense tracking
-- Private job tracking
-- Mail notification support through database SMTP settings
-- Sales analytics and tender result dashboards
-- Deleted tender archive and reason classification
+
+-Tender registration and status tracking  
+-Salesperson assignment and task follow-up  
+-Role-based team access and authorization management  
+-Follow-up, objection, won/lost tender workflows  
+-Partial result tracking by product group  
+-Device and expense tracking  
+-Private job tracking  
+-Mail notification support through database SMTP settings  
+-Sales analytics and tender result dashboards  
+-Deleted tender archive and reason classification
 
 ## Tech Stack
 
